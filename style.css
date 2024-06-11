@@ -6101,3 +6101,14 @@ figcaption {
   background-size: cover;
   border-radius: 15px;
 }
+
+
+.abt-vid{
+  width: 50%;
+}
+
+@media screen and (max-width : 768px) {
+  .abt-vid{
+    width: 90%;
+  }
+}
